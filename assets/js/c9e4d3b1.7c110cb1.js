@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{101:function(e){e.exports=JSON.parse('{"title":"\u6700\u65b0\u6587\u7ae0","items":[{"title":"JavaScript \u98ce\u683c\u6307\u5357","permalink":"/blog/javascript-style-guide"}]}')}}]);

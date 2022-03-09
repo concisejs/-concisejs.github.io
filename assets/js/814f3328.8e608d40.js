@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"\u6700\u65b0\u6587\u7ae0","items":[{"title":"\u4ee3\u7801\u68c0\u6d4b\u89c4\u5219","permalink":"/blog/code-detection-rules"},{"title":"\u4ee3\u7801\u98ce\u683c\u6307\u5357","permalink":"/blog/code-style-guide"}]}')}}]);
